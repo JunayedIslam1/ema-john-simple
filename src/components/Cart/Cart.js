@@ -5,7 +5,11 @@ const Cart = ({ cart }) => {
         <div>
             <h4>Order summary</h4>
             <p>Selected Items: {cart.length}</p>
+            <p>See changes</p>
         </div>
+
+
+
     );
 };
 
